@@ -1,0 +1,25 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: #713600;
+  background-color: #faf6f0;
+}
+
+h1,
+h2 {
+  color: #713600;
+}
+h1 {
+  text-align: center;
+}
+.tagline {
+  font-style: italic;
+}
+
+.note {
+  font-style: italic;
+}
+
+#best-seller {
+  border: 15px;
+  margin: 20px;
+}
